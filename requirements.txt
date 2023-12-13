@@ -4,4 +4,4 @@ keras
 numpy
 scikit-image
 joblib
-joblib==<version>
+nltk
