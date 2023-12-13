@@ -1,8 +1,7 @@
 streamlit
 tensorflow
-keras
 numpy
-scikit-image
 joblib
 nltk
 scikit-learn
+pandas
