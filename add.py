@@ -5,7 +5,10 @@ import joblib
 import sklearn
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.ensemble import RandomForestClassifier
-
+import streamlit as st
+import os
+from keras.preprocessing import image
+import numpy as np
 # Load the trained Random Forest Classifier
 rf_classifier = joblib.load('random_forest_model.joblib')
 
