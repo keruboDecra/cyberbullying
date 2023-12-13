@@ -1,6 +1,10 @@
 import streamlit as st
 import re
 from nltk.corpus import stopwords
+import joblib
+import sklearn
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.ensemble import RandomForestClassifier
 
 # Load the trained Random Forest Classifier
 rf_classifier = joblib.load('random_forest_model.joblib')
