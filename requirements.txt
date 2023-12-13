@@ -5,6 +5,4 @@ numpy
 scikit-image
 joblib
 nltk
-sklearn
 scikit-learn
-sklearn.feature_extraction.text
