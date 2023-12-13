@@ -7,3 +7,4 @@ joblib
 nltk
 sklearn
 scikit-learn
+sklearn.feature_extraction.text
