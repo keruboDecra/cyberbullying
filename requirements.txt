@@ -6,3 +6,4 @@ scikit-image
 joblib
 nltk
 sklearn
+scikit-learn
