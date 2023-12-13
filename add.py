@@ -1,5 +1,4 @@
 import streamlit as st
-import joblib
 import re
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import TfidfVectorizer
