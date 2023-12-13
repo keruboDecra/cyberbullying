@@ -1,4 +1,7 @@
-
+streamlit
+tensorflow
+numpy
+joblib
+nltk
 scikit-learn
 pandas
-rub
